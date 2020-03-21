@@ -50,7 +50,7 @@ namespace DiscordBotUtil
                 .AddSingleton(command)
                 .BuildServiceProvider();
 
-            var token = "Njg5OTU2ODg4MjcxNTE5NzYy.XnVtIg.nT9tlCP1uWwRVrzP-0ieiHvJcXc";
+            var token = "";
 
             client.Log += log;
 
